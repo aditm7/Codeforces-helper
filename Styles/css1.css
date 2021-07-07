@@ -1,0 +1,9 @@
+.problemindexholder {
+	page-break-after: always;
+}
+.input-output-copier {
+	display:none
+}
+.tex-graphics {
+    margin: 10px auto !important;
+}
